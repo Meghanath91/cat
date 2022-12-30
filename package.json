@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Meghanath91/cat#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.0.0"
+    "mocha": "^10.2.0"
   }
 }
